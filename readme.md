@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm RulfaDev – Welcome to My GitHub!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=435&lines=I'm+a+Full-Stack+Developer;I+Love+Building+Web+Apps;Clean+Code+%7C+Open+Source+%7C+Coffee+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=535&lines=I'm+a+Full-Stack+Developer;I+Love+Building+Web+Apps;Clean+Code+%7C+Open+Source+%7C+Coffee+Lover" alt="Typing SVG" />
 </p>
 
 ## 🧑‍💻 About Me
