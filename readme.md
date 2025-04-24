@@ -29,7 +29,7 @@ I'm a passionate developer who enjoys building applications that are **fast**, *
 Here are a few of the things I've built or am currently working on:
 
 - 💸 **[Walltrack](https://github.com/RulfaDev/walltrack)** – Web application for recording transactions using the CodeIgniter framework.
-- 🔐 **[NusaDev](https://github.com/RulfaDev/nusadev)** – bot Discord modular berbasis Node.js yang dirancang untuk komunitas dengan sistem verifikasi pengguna menggunakan pertanyaan matematika.
+- 🔐 **[NusaDev](https://github.com/RulfaDev/nusadev)** – A modular Node.js based Discord bot designed for communities with a user verification system using math questions.
 
 ## 📊 GitHub Stats
 
